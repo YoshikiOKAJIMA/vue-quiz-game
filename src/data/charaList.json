@@ -1,0 +1,242 @@
+[
+  {
+    "ID": 1,
+    "job": "nobis",
+    "hp": 50,
+    "str": 10,
+    "agi": 10,
+    "possessed": true
+  },
+  {
+    "ID": 2,
+    "job": "nobis",
+    "hp": 50,
+    "str": 10,
+    "agi": 10,
+    "possessed": true
+  },
+  {
+    "ID": 3,
+    "job": "nobis",
+    "hp": 50,
+    "str": 10,
+    "agi": 10,
+    "possessed": false
+  },
+  {
+    "ID": 4,
+    "job": "nobis",
+    "hp": 50,
+    "str": 10,
+    "agi": 10,
+    "possessed": false
+  },
+  {
+    "ID": 5,
+    "job": "nobis",
+    "hp": 50,
+    "str": 10,
+    "agi": 10,
+    "possessed": false
+  },
+  {
+    "ID": 6,
+    "job": "nobis",
+    "hp": 50,
+    "str": 10,
+    "agi": 10,
+    "possessed": false
+  },
+  {
+    "ID": 7,
+    "job": "nobis",
+    "hp": 50,
+    "str": 10,
+    "agi": 10,
+    "possessed": false
+  },
+  {
+    "ID": 8,
+    "job": "nobis",
+    "hp": 50,
+    "str": 10,
+    "agi": 10,
+    "possessed": false
+  },
+  {
+    "ID": 9,
+    "job": "nobis",
+    "hp": 50,
+    "str": 10,
+    "agi": 10,
+    "possessed": false
+  },
+  {
+    "ID": 10,
+    "job": "nobis",
+    "hp": 50,
+    "str": 10,
+    "agi": 10,
+    "possessed": false
+  },
+  {
+    "ID": 11,
+    "job": "nobis",
+    "hp": 50,
+    "str": 10,
+    "agi": 10,
+    "possessed": false
+  },
+  {
+    "ID": 12,
+    "job": "nobis",
+    "hp": 50,
+    "str": 10,
+    "agi": 10,
+    "possessed": false
+  },
+  {
+    "ID": 13,
+    "job": "nobis",
+    "hp": 50,
+    "str": 10,
+    "agi": 10,
+    "possessed": false
+  },
+  {
+    "ID": 14,
+    "job": "nobis",
+    "hp": 50,
+    "str": 10,
+    "agi": 10,
+    "possessed": false
+  },
+  {
+    "ID": 15,
+    "job": "nobis",
+    "hp": 50,
+    "str": 10,
+    "agi": 10,
+    "possessed": false
+  },
+  {
+    "ID": 16,
+    "job": "nobis",
+    "hp": 50,
+    "str": 10,
+    "agi": 10,
+    "possessed": false
+  },
+  {
+    "ID": 17,
+    "job": "nobis",
+    "hp": 50,
+    "str": 10,
+    "agi": 10,
+    "possessed": false
+  },
+  {
+    "ID": 18,
+    "job": "nobis",
+    "hp": 50,
+    "str": 10,
+    "agi": 10,
+    "possessed": false
+  },
+  {
+    "ID": 19,
+    "job": "nobis",
+    "hp": 50,
+    "str": 10,
+    "agi": 10,
+    "possessed": false
+  },
+  {
+    "ID": 20,
+    "job": "nobis",
+    "hp": 50,
+    "str": 10,
+    "agi": 10,
+    "possessed": false
+  },
+  {
+    "ID": 21,
+    "job": "nobis",
+    "hp": 50,
+    "str": 10,
+    "agi": 10,
+    "possessed": false
+  },
+  {
+    "ID": 22,
+    "job": "nobis",
+    "hp": 50,
+    "str": 10,
+    "agi": 10,
+    "possessed": false
+  },
+  {
+    "ID": 23,
+    "job": "nobis",
+    "hp": 50,
+    "str": 10,
+    "agi": 10,
+    "possessed": false
+  },
+  {
+    "ID": 24,
+    "job": "nobis",
+    "hp": 50,
+    "str": 10,
+    "agi": 10,
+    "possessed": false
+  },
+  {
+    "ID": 25,
+    "job": "nobis",
+    "hp": 50,
+    "str": 10,
+    "agi": 10,
+    "possessed": false
+  },
+  {
+    "ID": 26,
+    "job": "nobis",
+    "hp": 50,
+    "str": 10,
+    "agi": 10,
+    "possessed": false
+  },
+  {
+    "ID": 27,
+    "job": "nobis",
+    "hp": 50,
+    "str": 10,
+    "agi": 10,
+    "possessed": false
+  },
+  {
+    "ID": 28,
+    "job": "nobis",
+    "hp": 50,
+    "str": 10,
+    "agi": 10,
+    "possessed": false
+  },
+  {
+    "ID": 29,
+    "job": "nobis",
+    "hp": 50,
+    "str": 10,
+    "agi": 10,
+    "possessed": false
+  },
+  {
+    "ID": 30,
+    "job": "nobis",
+    "hp": 50,
+    "str": 10,
+    "agi": 10,
+    "possessed": false
+  }
+]

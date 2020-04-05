@@ -1,0 +1,170 @@
+[
+  {
+    "ID": 0,
+    "dungeon": "魔王城",
+    "monsterId": [0, 1, 4, 6],
+    "bossId": 30,
+    "treasure": 1000,
+    "possessed": false
+  },
+  {
+    "ID": 1,
+    "dungeon": "美浜区",
+    "monsterId": [0, 1, 4, 6],
+    "bossId": 30,
+    "treasure": 1000,
+    "possessed": true
+  },
+  {
+    "ID": 2,
+    "dungeon": "花見川区",
+    "monsterId": [0, 1, 4, 6],
+    "bossId": 30,
+    "treasure": 1000,
+    "possessed": true
+  },
+  {
+    "ID": 3,
+    "dungeon": "稲毛区",
+    "monsterId": [0, 1, 4, 6],
+    "bossId": 30,
+    "treasure": 1000,
+    "possessed": true
+  },
+  {
+    "ID": 4,
+    "dungeon": "若葉区",
+    "monsterId": [0, 1, 4, 6],
+    "bossId": 30,
+    "treasure": 1000,
+    "possessed": false
+  },
+  {
+    "ID": 5,
+    "dungeon": "緑区",
+    "monsterId": [0, 1, 4, 6],
+    "bossId": 30,
+    "treasure": 1000,
+    "possessed": false
+  },
+  {
+    "ID": 6,
+    "dungeon": "勝浦市",
+    "monsterId": [0, 1, 4, 6],
+    "bossId": 30,
+    "treasure": 1000,
+    "possessed": false
+  },
+  {
+    "ID": 7,
+    "dungeon": "大網白里市",
+    "monsterId": [0, 1, 4, 6],
+    "bossId": 30,
+    "treasure": 1000,
+    "possessed": false
+  },
+  {
+    "ID": 8,
+    "dungeon": "市原市",
+    "monsterId": [0, 1, 4, 6],
+    "bossId": 30,
+    "treasure": 1000,
+    "possessed": false
+  },
+  {
+    "ID": 9,
+    "dungeon": "流山市",
+    "monsterId": [0, 1, 4, 6],
+    "bossId": 30,
+    "treasure": 1000,
+    "possessed": false
+  },
+  {
+    "ID": 10,
+    "dungeon": "八千代市",
+    "monsterId": [0, 1, 4, 6],
+    "bossId": 30,
+    "treasure": 1000,
+    "possessed": false
+  },
+  {
+    "ID": 11,
+    "dungeon": "我孫子市",
+    "monsterId": [0, 1, 4, 6],
+    "bossId": 30,
+    "treasure": 1000,
+    "possessed": false
+  },
+  {
+    "ID": 12,
+    "dungeon": "鴨川市",
+    "monsterId": [0, 1, 4, 6],
+    "bossId": 30,
+    "treasure": 1000,
+    "possessed": false
+  },
+  {
+    "ID": 13,
+    "dungeon": "銚子市",
+    "monsterId": [0, 1, 4, 6],
+    "bossId": 30,
+    "treasure": 1000,
+    "possessed": false
+  },
+  {
+    "ID": 14,
+    "dungeon": "君津市",
+    "monsterId": [0, 1, 4, 6],
+    "bossId": 30,
+    "treasure": 1000,
+    "possessed": false
+  },
+  {
+    "ID": 15,
+    "dungeon": "市川市",
+    "monsterId": [0, 1, 4, 6],
+    "bossId": 30,
+    "treasure": 1000,
+    "possessed": false
+  },
+  {
+    "ID": 16,
+    "dungeon": "富津市",
+    "monsterId": [0, 1, 4, 6],
+    "bossId": 30,
+    "treasure": 1000,
+    "possessed": false
+  },
+  {
+    "ID": 17,
+    "dungeon": "船橋市",
+    "monsterId": [0, 1, 4, 6],
+    "bossId": 30,
+    "treasure": 1000,
+    "possessed": false
+  },
+  {
+    "ID": 18,
+    "dungeon": "館山市",
+    "monsterId": [0, 1, 4, 6],
+    "bossId": 30,
+    "treasure": 1000,
+    "possessed": false
+  },
+  {
+    "ID": 19,
+    "dungeon": "四街道市",
+    "monsterId": [0, 1, 4, 6],
+    "bossId": 30,
+    "treasure": 1000,
+    "possessed": false
+  },
+  {
+    "ID": 20,
+    "dungeon": "木更津市",
+    "monsterId": [0, 1, 4, 6],
+    "bossId": 30,
+    "treasure": 1000,
+    "possessed": false
+  }
+]
