@@ -20,7 +20,17 @@
 
 <script>
 export default {
-  name: "App"
+  name: "App",
+}
+const firebaseConfig = {
+  apiKey: "AIzaSyAkZXy48jypcSiJp8mptCdiWXRETFHS5BA",
+  authDomain: "vue-quiz-game-35c1d.firebaseapp.com",
+  databaseURL: "https://vue-quiz-game-35c1d.firebaseio.com",
+  projectId: "vue-quiz-game-35c1d",
+  storageBucket: "vue-quiz-game-35c1d.appspot.com",
+  messagingSenderId: "872286908501",
+  appId: "1:872286908501:web:9898af53249ffad37324dc",
+  measurementId: "G-XKWRFL6ETS",
 }
 </script>
 

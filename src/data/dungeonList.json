@@ -109,7 +109,7 @@
     "monsterId": [0, 1, 4, 6],
     "bossId": 30,
     "treasure": 1000,
-    "possessed": false
+    "possessed": true
   },
   {
     "ID": 14,
